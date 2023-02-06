@@ -1,8 +1,8 @@
 # PROYECTO FINAL - ECOMMERCE
 
-## Autor Gabriel Godoy
 
-## CURSO REACT - Comisión 43540
+
+## CURSO REACT - Comisión 43545 
 
 ## GIF
 
